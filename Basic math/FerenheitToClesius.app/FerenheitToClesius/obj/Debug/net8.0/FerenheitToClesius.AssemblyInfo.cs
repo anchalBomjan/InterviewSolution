@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FerenheitToClesius")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8880c90adc20977db03030f3e4e53e99a0165b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d1c33679126af13a7dd9300684a65a771920d45")]
 [assembly: System.Reflection.AssemblyProductAttribute("FerenheitToClesius")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FerenheitToClesius")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

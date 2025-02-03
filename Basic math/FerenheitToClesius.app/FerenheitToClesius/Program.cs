@@ -3,8 +3,8 @@
     public  class Program
     {
 
-
-
+        // static  methods is declared beacuse  we can directly call all the methods
+        // without creating an object
         public static  double FahrenheitToCelsius(double fahrenheit)
         {
             return (fahrenheit-32)*5/9;
