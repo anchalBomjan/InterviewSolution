@@ -1,0 +1,15 @@
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.GeneratedMSBuildEditorConfig.editorconfig
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.AssemblyInfoInputs.cache
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.AssemblyInfo.cs
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.csproj.CoreCompileInputs.cache
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.sourcelink.json
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\bin\Debug\net8.0\FerenheitToClesius.exe
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\bin\Debug\net8.0\FerenheitToClesius.deps.json
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\bin\Debug\net8.0\FerenheitToClesius.runtimeconfig.json
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\bin\Debug\net8.0\FerenheitToClesius.dll
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\bin\Debug\net8.0\FerenheitToClesius.pdb
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.dll
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\refint\FerenheitToClesius.dll
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.pdb
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\FerenheitToClesius.genruntimeconfig.cache
+D:\interview problems\Basic math\FerenheitToClesius.app\FerenheitToClesius\obj\Debug\net8.0\ref\FerenheitToClesius.dll
