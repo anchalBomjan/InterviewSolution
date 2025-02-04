@@ -1,0 +1,15 @@
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.AssemblyInfoInputs.cache
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.AssemblyInfo.cs
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.csproj.CoreCompileInputs.cache
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.sourcelink.json
+D:\interview problems\Basic math\sum.app\sum\bin\Debug\net8.0\sum.exe
+D:\interview problems\Basic math\sum.app\sum\bin\Debug\net8.0\sum.deps.json
+D:\interview problems\Basic math\sum.app\sum\bin\Debug\net8.0\sum.runtimeconfig.json
+D:\interview problems\Basic math\sum.app\sum\bin\Debug\net8.0\sum.dll
+D:\interview problems\Basic math\sum.app\sum\bin\Debug\net8.0\sum.pdb
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.dll
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\refint\sum.dll
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.pdb
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\sum.genruntimeconfig.cache
+D:\interview problems\Basic math\sum.app\sum\obj\Debug\net8.0\ref\sum.dll
