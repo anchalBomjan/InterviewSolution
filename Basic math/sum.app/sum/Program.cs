@@ -5,6 +5,7 @@ public class Solution
 {
     public  int[] TwoSum(int[] nums, int target)
     {
+        //time Complex  is n(0)^2
         for (int i = 0; i < nums.Length; i++)
         {
             for (int j = i + 1; j < nums.Length; j++)
@@ -15,7 +16,7 @@ public class Solution
                 }
 
             }
-            return Array.Empty<int>();
+            
         }
         return Array.Empty<int>();
     }
