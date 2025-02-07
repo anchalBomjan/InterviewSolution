@@ -13,10 +13,16 @@ namespace LetterCombinationofPhoneNumber
 
             // Mapping of digits to letters
             string[] letters = { "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
+
+            // this helps to store the the combinations  in the forms of string in list
             List<string> result = new List<string>();
 
+
+            // Using the recursive functions
             void Backtrack(int index, string currentCombination)
             {
+
+                //suppose 23 then digita.length=2
                 if (index == digits.Length)
                 {
                     result.Add(currentCombination);
@@ -26,7 +32,7 @@ namespace LetterCombinationofPhoneNumber
 
                 // digits[index] gets the character at index position in the input string digits
                 // digits[index]-'0'  convert  the charater into interger
-                // leters[digits[index]-'0']    Uses the interger as  an index 
+                // leters[digits[index]-'0']Uses the interger as  an index  retrive the crossproding letters  mapping from the letters arrary
                 string possibleLetters = letters[digits[index] - '0'];
                 foreach (char letter in possibleLetters)
                 {
