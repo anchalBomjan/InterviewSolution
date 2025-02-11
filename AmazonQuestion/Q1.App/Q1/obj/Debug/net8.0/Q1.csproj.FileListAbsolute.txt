@@ -1,0 +1,15 @@
+D:\interview problems\AmazonQuestion\Q1.App\Q1\bin\Debug\net8.0\Q1.exe
+D:\interview problems\AmazonQuestion\Q1.App\Q1\bin\Debug\net8.0\Q1.deps.json
+D:\interview problems\AmazonQuestion\Q1.App\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+D:\interview problems\AmazonQuestion\Q1.App\Q1\bin\Debug\net8.0\Q1.dll
+D:\interview problems\AmazonQuestion\Q1.App\Q1\bin\Debug\net8.0\Q1.pdb
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.sourcelink.json
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.dll
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\refint\Q1.dll
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.pdb
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+D:\interview problems\AmazonQuestion\Q1.App\Q1\obj\Debug\net8.0\ref\Q1.dll
